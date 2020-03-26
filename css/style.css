@@ -92,4 +92,5 @@ h2 {
 #resultado {
     white-space: pre-wrap;
     padding: 2rem;
+    text-align: center;
 }
